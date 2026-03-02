@@ -8,8 +8,8 @@ lost-in-the-scroll/
 ├── reflection.html
 ├── styles/
 │   ├── tokens.css
-│   ├── layout.css
-│   └── animations.css
+│   ├── styles.css
+│   └── animations.css (if needed)
 ├── scripts/
 │   └── main.js
 ├── assets/
