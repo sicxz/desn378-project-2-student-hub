@@ -24,6 +24,7 @@ Student-facing repo for final project execution and turn-in.
 - [Project Structure Suggestion](docs/04-project-structure-suggestion.md)
 - [Resources](docs/05-resources.md)
 - [Copy This Template](docs/06-copy-this-template.md)
+- [Kickoff Assignment](docs/07-assignment-kickoff-template-and-tracking.md)
 - GitHub issue templates for progress tracking and blocker reporting
 
 ## How To Use Issues

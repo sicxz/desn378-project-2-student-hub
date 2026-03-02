@@ -1,0 +1,55 @@
+# Assignment: Project 2 Kickoff (Template + Tracking)
+
+**Assigned:** Monday, March 2, 2026  
+**Due:** Before next class (Wednesday, March 4, 2026 at class start)
+
+## Goal
+
+Standardize your workflow using the class template repo and issue tracking, then continue your existing project build.
+
+You are **not** restarting from zero.
+
+## Steps
+
+1. Create your repo from template  
+   [Use this template](https://github.com/sicxz/desn378-project-2-student-hub/generate)
+
+2. Name your repo:  
+   `project-2-lost-in-the-scroll-[yourname]`
+
+3. Move your current project into this new repo  
+   Keep the template `docs/` and `.github/ISSUE_TEMPLATE/` folders.
+
+4. Enable GitHub Pages for the new repo.
+
+5. Create an issue from template:  
+   `Project 2 Completion Checklist`
+
+6. Complete kickoff build targets:
+- [ ] Full project structure present
+- [ ] Story draft is at least 90% complete
+- [ ] ScrollTrigger is registered and active in at least one section
+- [ ] ScrollSmoother setup is in place (`#smooth-wrapper`, `#smooth-content`)
+
+## What To Submit In Canvas
+
+- [ ] New repo URL
+- [ ] Live GitHub Pages URL
+- [ ] Link to your open `Project 2 Completion Checklist` issue
+- [ ] Screenshot of one working scroll-triggered section
+
+## Grading (10 points, Complete/Incomplete style)
+
+- 2 pts: Template repo created correctly
+- 2 pts: Existing project work migrated (not restarted)
+- 2 pts: Checklist issue created and updated
+- 2 pts: GitHub Pages live and current
+- 2 pts: One working ScrollTrigger section + ScrollSmoother shell
+
+## If You Get Stuck
+
+If blocked for more than 20 minutes, open issue template:
+
+- `Blocker Report`
+
+Include error details and what you already tried.
