@@ -24,11 +24,12 @@ You are **not** restarting from zero.
 
 4. Enable GitHub Pages for the new repo.
 
-5. Track progress using one of these options:
-   - Option A: Create issue from template `Project 2 Completion Checklist`
-   - Option B: Use `docs/02-project-completion-checklist.md` directly
+5. Create issue from template:
+   - `Project 2 Master Checklist`
 
-6. Complete kickoff build targets:
+6. Create all required sub-issues listed in your master issue.
+
+7. Complete kickoff build targets:
 - [ ] Full project structure present
 - [ ] Story draft is at least 90% complete
 - [ ] ScrollTrigger is registered and active in at least one section
@@ -38,14 +39,14 @@ You are **not** restarting from zero.
 
 - [ ] New repo URL
 - [ ] Live GitHub Pages URL
-- [ ] Link to your progress tracker (issue URL or checklist file in repo)
+- [ ] Link to your `Project 2 Master Checklist` issue
 - [ ] Screenshot of one working scroll-triggered section
 
 ## Grading (10 points, Complete/Incomplete style)
 
 - 2 pts: Template repo created correctly
 - 2 pts: Existing project work migrated (not restarted)
-- 2 pts: Checklist issue created and updated
+- 2 pts: `Project 2 Master Checklist` issue created and updated
 - 2 pts: GitHub Pages live and current
 - 2 pts: One working ScrollTrigger section + ScrollSmoother shell
 

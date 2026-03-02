@@ -27,7 +27,7 @@ After your repo is created:
 
 ## What Is In This Repo
 
-- [Project Completion Checklist](docs/02-project-completion-checklist.md)
+- [Project Completion Checklist (Reference)](docs/02-project-completion-checklist.md)
 - [Final Turn-In Spec](docs/03-final-turn-in-spec.md)
 - [Project Structure Suggestion](docs/04-project-structure-suggestion.md)
 - [Resources](docs/05-resources.md)
@@ -38,15 +38,7 @@ After your repo is created:
 
 ## How To Use Issues
 
-If you know GitHub issues:
-
-1. Open your repo and click `Issues` -> `New issue`.
-2. Choose `Project 2 Completion Checklist`.
-3. Click `Get started`, fill your name in the title, then `Submit new issue`.
-4. Edit the issue over time and check boxes as you finish tasks.
-
-If you do not know GitHub issues yet:
-
-1. Use `docs/02-project-completion-checklist.md` directly.
-2. Check items off in that file while you build.
-3. You can learn issues later; this will not block your progress.
+1. Create `Project 2 Master Checklist` issue first.
+2. Create all required sub-issues from templates.
+3. Link sub-issues back into the master issue.
+4. Use `Blocker Report` if stuck for more than 20 minutes.

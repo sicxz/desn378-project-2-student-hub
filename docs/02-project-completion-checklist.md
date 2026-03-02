@@ -1,4 +1,4 @@
-# Project 2 Completion Checklist
+# Project 2 Completion Checklist (Reference)
 
 Use this checklist while building.
 
