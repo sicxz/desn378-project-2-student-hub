@@ -19,7 +19,7 @@ After your repo is created:
 
 ## Start Here
 
-1. Read [Start Here](docs/01-start-here.md)
+1. Read [Start Here](docs/01-start-here.md) and follow the step-by-step issue setup
 2. Open [GSAP Scroll](https://gsap.com/scroll/) and study examples
 3. Track progress using [Progress Tracking Options](docs/08-progress-tracking-options.md)
 4. Build, test, and check items off as you complete them
