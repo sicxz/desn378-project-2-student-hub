@@ -1,4 +1,4 @@
-# Assignment: Project 2 Kickoff (Template + Tracking)
+# Assignment: Issue-Based Project Management Workflow (Project 2)
 
 **Assigned:** Monday, March 2, 2026  
 **Due:** Before next class (Wednesday, March 4, 2026 at class start)
