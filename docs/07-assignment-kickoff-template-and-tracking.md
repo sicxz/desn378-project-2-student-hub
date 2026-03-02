@@ -24,8 +24,9 @@ You are **not** restarting from zero.
 
 4. Enable GitHub Pages for the new repo.
 
-5. Create an issue from template:  
-   `Project 2 Completion Checklist`
+5. Track progress using one of these options:
+   - Option A: Create issue from template `Project 2 Completion Checklist`
+   - Option B: Use `docs/02-project-completion-checklist.md` directly
 
 6. Complete kickoff build targets:
 - [ ] Full project structure present
@@ -37,7 +38,7 @@ You are **not** restarting from zero.
 
 - [ ] New repo URL
 - [ ] Live GitHub Pages URL
-- [ ] Link to your open `Project 2 Completion Checklist` issue
+- [ ] Link to your progress tracker (issue URL or checklist file in repo)
 - [ ] Screenshot of one working scroll-triggered section
 
 ## Grading (10 points, Complete/Incomplete style)

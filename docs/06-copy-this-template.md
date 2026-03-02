@@ -17,7 +17,9 @@ cd project-2-lost-in-the-scroll-<yourname>
 ## First 5 Minutes
 
 1. Open `docs/01-start-here.md`
-2. Create issue: `Project 2 Completion Checklist`
+2. Choose tracking path:
+   - Option A: create issue `Project 2 Completion Checklist`
+   - Option B: use `docs/02-project-completion-checklist.md` directly
 3. Push once after initial setup
 
 ## Before You Submit

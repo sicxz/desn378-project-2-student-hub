@@ -21,7 +21,7 @@ After your repo is created:
 
 1. Read [Start Here](docs/01-start-here.md)
 2. Open [GSAP Scroll](https://gsap.com/scroll/) and study examples
-3. Create issue from template: `Project 2 Completion Checklist`
+3. Track progress using [Progress Tracking Options](docs/08-progress-tracking-options.md)
 4. Build, test, and check items off as you complete them
 5. Submit using [Final Turn-In Spec](docs/03-final-turn-in-spec.md)
 
@@ -33,10 +33,20 @@ After your repo is created:
 - [Resources](docs/05-resources.md)
 - [Copy This Template](docs/06-copy-this-template.md)
 - [Kickoff Assignment](docs/07-assignment-kickoff-template-and-tracking.md)
+- [Progress Tracking Options](docs/08-progress-tracking-options.md)
 - GitHub issue templates for progress tracking and blocker reporting
 
 ## How To Use Issues
 
-- Use `Project 2 Completion Checklist` as your main progress issue.
-- Use `Blocker Report` when stuck for more than 20 minutes.
-- Close the checklist issue only when all required items are complete.
+If you know GitHub issues:
+
+1. Open your repo and click `Issues` -> `New issue`.
+2. Choose `Project 2 Completion Checklist`.
+3. Click `Get started`, fill your name in the title, then `Submit new issue`.
+4. Edit the issue over time and check boxes as you finish tasks.
+
+If you do not know GitHub issues yet:
+
+1. Use `docs/02-project-completion-checklist.md` directly.
+2. Check items off in that file while you build.
+3. You can learn issues later; this will not block your progress.
