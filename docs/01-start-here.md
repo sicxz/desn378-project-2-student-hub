@@ -6,6 +6,19 @@
 
 Use this as your reference for scroll-driven motion patterns.
 
+## Why We Are Using Issues
+
+Creating issues is part of the development process used on real teams.
+
+For this project, issues are used to:
+
+- break a large project into manageable tasks
+- make progress visible over time
+- document blockers and debugging attempts
+- create clear proof of what was completed
+
+You are not making issues as extra paperwork. You are practicing production workflow.
+
 ## What To Do First
 
 ### Step 1: Create Your Master Issue

@@ -2,6 +2,17 @@
 
 Student-facing repo for final project execution and turn-in.
 
+## Why This Repo Uses Issues
+
+Issues are required because they mirror real development workflow.
+
+You will use them to:
+
+- plan and sequence work
+- track progress publicly
+- report blockers with evidence
+- verify final completion
+
 ## Use This Template
 
 If you already completed template setup from the Canvas assignment, skip this section and go to **Start Here**.

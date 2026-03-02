@@ -9,6 +9,17 @@ Standardize your workflow using the class template repo and issue tracking, then
 
 You are **not** restarting from zero.
 
+## Why This Uses Issues
+
+This assignment uses issues because issue-based planning is a core development skill.
+
+You will use issues to:
+
+- split project work into clear, testable units
+- track progress section-by-section
+- document blockers when debugging
+- produce evidence for completion and grading
+
 ## Steps
 
 1. Create your repo from template  
