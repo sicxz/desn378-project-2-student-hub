@@ -14,8 +14,10 @@ You are **not** restarting from zero.
 1. Create your repo from template  
    [Use this template](https://github.com/sicxz/desn378-project-2-student-hub/generate)
 
-2. Name your repo:  
-   `project-2-lost-in-the-scroll-[yourname]`
+2. Name your repo using this format:  
+   `scrollytelling-[project-title]-[firstname]`  
+   Example: `scrollytelling-the-long-way-down-jordan`  
+   If your title is not final yet, use: `scrollytelling-[firstname]-project-2`
 
 3. Move your current project into this new repo  
    Keep the template `docs/` and `.github/ISSUE_TEMPLATE/` folders.
