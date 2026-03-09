@@ -2,17 +2,17 @@
 
 Use this workflow for Project 2.
 
-## Step 1: Create Your Master Issue
+## Step 1: Run `Setup Project Issues`
 
 1. Open your project repo on GitHub.
-2. Click `Issues` -> `New issue`.
-3. Click `Get started` on `Project 2 Master Checklist`.
-4. Change title to: `Project 2 Master Checklist - [Your Name]`.
-5. Click `Submit new issue`.
+2. Click `Actions`.
+3. Run `Setup Project Issues`.
+4. Enter your name.
+5. Use mode `create_missing`.
 
-## Step 2: Create Sub-Issues
+## Step 2: Review the Created Issues
 
-Create one issue for each template:
+The workflow should create:
 
 - Story + Structure
 - GSAP Motion Foundation
@@ -23,11 +23,17 @@ Create one issue for each template:
 - Assets + Accessibility + QA
 - Reflection + README + Submission
 
-## Step 3: Link Sub-Issues Back To Master
+Open the master issue and make sure the sub-issues are linked there.
 
-1. Open your master issue.
-2. Paste each sub-issue number/link into the `Sub-Issues (Create + Link)` list.
-3. Check off each line as sub-issues are completed and closed.
+## Step 3: Re-Run in `sync_open` Mode When Needed
+
+If the issue templates change and your issues are still open:
+
+1. Run `Setup Project Issues` again.
+2. Switch mode to `sync_open`.
+3. Review the updated issue bodies before you continue.
+
+If GitHub Actions is unavailable, create or update issues manually from the templates.
 
 ## Step 4: Use Blocker Issues When Stuck
 

@@ -21,18 +21,20 @@ You are not making issues as extra paperwork. You are practicing production work
 
 ## What To Do First
 
-### Step 1: Create Your Master Issue
+### Step 1: Run the Issue Setup Automation
 
-1. In your GitHub repo, click the `Issues` tab.
-2. Click `New issue`.
-3. Find template `Project 2 Master Checklist` and click `Get started`.
-4. Change the title to `Project 2 Master Checklist - [Your Name]`.
-5. Click `Submit new issue`.
+1. In your GitHub repo, click the `Actions` tab.
+2. Open `Setup Project Issues`.
+3. Click `Run workflow`.
+4. Enter your name exactly as you want it to appear in issue titles.
+5. Leave mode set to `create_missing`.
+6. Run the workflow and wait for the summary.
 
-### Step 2: Create All Required Sub-Issues
+### Step 2: Review the Created Issues
 
-1. In your repo, click `Issues` -> `New issue` again.
-2. Create each template issue one by one:
+1. Open the `Issues` tab.
+2. Confirm the workflow created:
+   - `Project 2 Master Checklist`
    - `Story + Structure`
    - `GSAP Motion Foundation`
    - `ScrollTrigger Core`
@@ -41,14 +43,18 @@ You are not making issues as extra paperwork. You are practicing production work
    - `Tokens + Theme Modes`
    - `Assets + Accessibility + QA`
    - `Reflection + README + Submission`
-3. After each one is created, copy its issue number (example: `#12`).
+3. Open the master issue and confirm the sub-issue numbers are linked.
 
-### Step 3: Link Sub-Issues Back To Master
+### Step 3: Use the Automation Again If You Need To Sync Open Issues
 
-1. Open your `Project 2 Master Checklist` issue.
-2. Click `Edit`.
-3. Paste each sub-issue number into the `Sub-Issues (Create + Link)` list.
-4. Click `Update comment`.
+If the template issue bodies change later and your issues are still open:
+
+1. Go back to `Actions`.
+2. Run `Setup Project Issues` again.
+3. Change mode to `sync_open`.
+4. Review the updated issue bodies before you continue.
+
+If GitHub Actions is unavailable in your repo, use manual issue creation from the templates instead.
 
 If you want to use a coding agent, improve each open issue before you start coding. First time? Follow the [step-by-step first run](09a-agent-workflow-first-run.md); then use [Working with Coding Agents](09-working-with-coding-agents.md) as your reference.
 

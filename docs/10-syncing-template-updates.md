@@ -37,6 +37,7 @@ docs/09a-agent-workflow-first-run.md
 docs/09b-assignment-agent-workflow-first-run.md
 docs/10-syncing-template-updates.md
 docs/11-assignment-final-turn-in.md
+.github/workflows/setup-project-issues.yml
 .github/ISSUE_TEMPLATE/project-2-master-checklist.md
 .github/ISSUE_TEMPLATE/story-structure.md
 .github/ISSUE_TEMPLATE/gsap-motion-foundation.md
@@ -70,7 +71,11 @@ Bring over only these files:
 - docs/01-start-here.md
 - docs/08-progress-tracking-options.md
 - docs/09-working-with-coding-agents.md
+- docs/09a-agent-workflow-first-run.md
+- docs/09b-assignment-agent-workflow-first-run.md
 - docs/10-syncing-template-updates.md
+- docs/11-assignment-final-turn-in.md
+- .github/workflows/setup-project-issues.yml
 - .github/ISSUE_TEMPLATE/project-2-master-checklist.md
 - .github/ISSUE_TEMPLATE/story-structure.md
 - .github/ISSUE_TEMPLATE/gsap-motion-foundation.md
@@ -103,7 +108,7 @@ If you have edited any of the files listed above, commit your work first so you 
 ```bash
 git remote add template https://github.com/sicxz/desn378-project-2-student-hub.git
 git fetch template
-git checkout template/main -- README.md docs/01-start-here.md docs/08-progress-tracking-options.md docs/09-working-with-coding-agents.md docs/10-syncing-template-updates.md .github/ISSUE_TEMPLATE/project-2-master-checklist.md .github/ISSUE_TEMPLATE/story-structure.md .github/ISSUE_TEMPLATE/gsap-motion-foundation.md .github/ISSUE_TEMPLATE/scrolltrigger-core.md .github/ISSUE_TEMPLATE/pinned-showpiece.md .github/ISSUE_TEMPLATE/scrollsmoother-setup.md .github/ISSUE_TEMPLATE/tokens-and-theme-modes.md .github/ISSUE_TEMPLATE/assets-accessibility-qa.md .github/ISSUE_TEMPLATE/reflection-readme-submission.md .github/ISSUE_TEMPLATE/blocker-report.md
+git checkout template/main -- README.md docs/01-start-here.md docs/08-progress-tracking-options.md docs/09-working-with-coding-agents.md docs/09a-agent-workflow-first-run.md docs/09b-assignment-agent-workflow-first-run.md docs/10-syncing-template-updates.md docs/11-assignment-final-turn-in.md .github/workflows/setup-project-issues.yml .github/ISSUE_TEMPLATE/project-2-master-checklist.md .github/ISSUE_TEMPLATE/story-structure.md .github/ISSUE_TEMPLATE/gsap-motion-foundation.md .github/ISSUE_TEMPLATE/scrolltrigger-core.md .github/ISSUE_TEMPLATE/pinned-showpiece.md .github/ISSUE_TEMPLATE/scrollsmoother-setup.md .github/ISSUE_TEMPLATE/tokens-and-theme-modes.md .github/ISSUE_TEMPLATE/assets-accessibility-qa.md .github/ISSUE_TEMPLATE/reflection-readme-submission.md .github/ISSUE_TEMPLATE/blocker-report.md
 git commit -m "docs: sync coding-agent workflow patch"
 git push
 ```
@@ -136,6 +141,11 @@ If you want to use a coding agent on an issue you already opened, either:
 
 - edit the issue body so it matches the new structure, or
 - add a comment that works as an `Agent Handoff`
+
+If you copied `.github/workflows/setup-project-issues.yml` into your existing repo, you can also go to `Actions` and run `Setup Project Issues`:
+
+- use `create_missing` to create any issue that does not exist yet
+- use `sync_open` to refresh the bodies of open issues from the latest templates
 
 A good `Agent Handoff` comment includes:
 

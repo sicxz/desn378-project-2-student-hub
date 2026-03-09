@@ -31,11 +31,12 @@ After your repo is created:
 ## Start Here
 
 1. Read [Start Here](docs/01-start-here.md) and follow the step-by-step issue setup
-2. Open [GSAP Scroll](https://gsap.com/scroll/) and study examples
-3. If you want to use a coding agent, read [Working with Coding Agents](docs/09-working-with-coding-agents.md)
-4. Track progress using [Progress Tracking Options](docs/08-progress-tracking-options.md)
-5. Build, test, and check items off as you complete them
-6. Submit using [Final Turn-In Spec](docs/03-final-turn-in-spec.md)
+2. Run `Setup Project Issues` from the `Actions` tab to create your master issue and sub-issues
+3. Open [GSAP Scroll](https://gsap.com/scroll/) and study examples
+4. If you want to use a coding agent, read [Working with Coding Agents](docs/09-working-with-coding-agents.md)
+5. Track progress using [Progress Tracking Options](docs/08-progress-tracking-options.md)
+6. Build, test, and check items off as you complete them
+7. Submit using [Final Turn-In Spec](docs/03-final-turn-in-spec.md)
 
 ## What Is In This Repo
 
@@ -49,11 +50,12 @@ After your repo is created:
 - [Working with Coding Agents](docs/09-working-with-coding-agents.md) — [Step-by-step first run](docs/09a-agent-workflow-first-run.md) — [Assignment: Agent Workflow First Run](docs/09b-assignment-agent-workflow-first-run.md)
 - [Syncing Template Updates](docs/10-syncing-template-updates.md)
 - [Assignment: Final Turn-In](docs/11-assignment-final-turn-in.md)
+- GitHub Actions workflow for issue setup and syncing
 - GitHub issue templates for progress tracking and blocker reporting
 
 ## How To Use Issues
 
-1. Create `Project 2 Master Checklist` issue first.
-2. Create all required sub-issues from templates.
-3. Link sub-issues back into the master issue.
+1. Run `Setup Project Issues` from the `Actions` tab.
+2. Review the created master issue and sub-issues.
+3. Re-run `Setup Project Issues` in `sync_open` mode if the open issue bodies need to match newer templates.
 4. Use `Blocker Report` if stuck for more than 20 minutes.
