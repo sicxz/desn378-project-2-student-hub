@@ -27,6 +27,11 @@ Paste both links into the Canvas text box:
 
 Your README is in the repo; we will read it there.
 
+Before you submit, make sure your Project 2 issue tracking is complete:
+
+- all required Project 2 sub-issues are closed
+- your `Project 2 Master Checklist` issue is updated and fully checked off
+
 ---
 
 ## Final Deliverable Requirements
@@ -92,6 +97,12 @@ If ScrollSmoother was unavailable for your setup, you must have received instruc
 - Deployed build matches your local final version
 - No broken links or missing assets
 
+### Issue Tracking
+
+- All required Project 2 sub-issues are closed
+- `Project 2 Master Checklist` reflects the final state of the project
+- Final issue evidence is present where needed
+
 ### README (Project Documentation + Reflection)
 
 Your repo must include a **README.md** that documents the project and includes your reflection. A separate reflection page (e.g. `reflection.html`) is optional; the required reflection content must be in the README.
@@ -153,5 +164,4 @@ The desk critique test applies: be ready to explain any line of code in your pro
 | **Developing (70–79%)**    | Metaphor is present but thin. Story has gaps or placeholder content. Some ScrollTrigger patterns implemented but not all requirements met. Accessibility partially addressed.                                                                             |
 | **Beginning (60–69%)**     | Metaphor is unclear or disconnected. Major sections incomplete. Fewer than half the technical requirements met. Accessibility not addressed.                                                                                                              |
 | **Incomplete (below 60%)** | Site not deployed, major sections missing, or no evidence of scroll-driven motion.                                                                                                                                                                        |
-
 

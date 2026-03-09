@@ -39,5 +39,6 @@ assignees: ""
 
 ## Final Evidence
 
+- [ ] All required sub-issues are closed
 - [ ] Final commit hash:
 - [ ] Final deploy timestamp:

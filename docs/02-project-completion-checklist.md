@@ -6,6 +6,8 @@ Use this checklist while building.
 
 - [ ] Live GitHub Pages URL
 - [ ] Public repository URL
+- [ ] All required Project 2 issues are closed
+- [ ] `Project 2 Master Checklist` is fully checked off
 
 ## Build + Story
 

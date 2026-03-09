@@ -15,6 +15,11 @@ Recommended:
 
 The README (in the repo) contains your project documentation and reflection; graders read it there.
 
+Issue tracking must also be complete before final turn-in:
+
+- [ ] All required Project 2 sub-issues are closed
+- [ ] `Project 2 Master Checklist` is up to date and fully checked off
+
 ## 2) Core Build Requirements
 
 ### Story + Structure
@@ -89,6 +94,12 @@ References:
 - [ ] Tested in at least two browsers (Chrome + one other)
 - [ ] Deployed build matches local final version
 - [ ] No broken links or missing assets
+
+## 4b) Issue Tracking Requirements
+
+- [ ] All required Project 2 sub-issues are closed
+- [ ] `Project 2 Master Checklist` reflects the final state of the project
+- [ ] Final issue evidence is present where needed
 
 ## 5) README (Project Documentation + Reflection)
 

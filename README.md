@@ -59,3 +59,39 @@ After your repo is created:
 2. Review the created master issue and sub-issues.
 3. Re-run `Setup Project Issues` in `sync_open` mode if the open issue bodies need to match newer templates.
 4. Use `Blocker Report` if stuck for more than 20 minutes.
+
+## Just Need The New Files?
+
+If you already have your own repo and only want the new course files:
+
+1. Click the green `Code` button on this repo.
+2. Click `Download ZIP`.
+3. Open the ZIP on your computer.
+4. Copy only the files listed below into the matching locations in your own repo.
+5. Commit and push those changes in your repo.
+
+Copy these files:
+
+```text
+README.md
+docs/01-start-here.md
+docs/08-progress-tracking-options.md
+docs/09-working-with-coding-agents.md
+docs/09a-agent-workflow-first-run.md
+docs/09b-assignment-agent-workflow-first-run.md
+docs/10-syncing-template-updates.md
+docs/11-assignment-final-turn-in.md
+.github/workflows/setup-project-issues.yml
+.github/ISSUE_TEMPLATE/project-2-master-checklist.md
+.github/ISSUE_TEMPLATE/story-structure.md
+.github/ISSUE_TEMPLATE/gsap-motion-foundation.md
+.github/ISSUE_TEMPLATE/scrolltrigger-core.md
+.github/ISSUE_TEMPLATE/pinned-showpiece.md
+.github/ISSUE_TEMPLATE/scrollsmoother-setup.md
+.github/ISSUE_TEMPLATE/tokens-and-theme-modes.md
+.github/ISSUE_TEMPLATE/assets-accessibility-qa.md
+.github/ISSUE_TEMPLATE/reflection-readme-submission.md
+.github/ISSUE_TEMPLATE/blocker-report.md
+```
+
+If you use GitHub Actions, the fastest next step is to run `Setup Project Issues` from the `Actions` tab in your own repo. If you do not use Actions, copy the files and update your issues manually.
