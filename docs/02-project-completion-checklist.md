@@ -6,7 +6,6 @@ Use this checklist while building.
 
 - [ ] Live GitHub Pages URL
 - [ ] Public repository URL
-- [ ] Reflection page URL
 
 ## Build + Story
 
@@ -50,7 +49,6 @@ Use this checklist while building.
 - [ ] No blocking console errors
 - [ ] No `markers: true` in final build
 
-## Reflection + README
+## README (Project Documentation + Reflection)
 
-- [ ] Reflection page includes all required prompts
-- [ ] README includes links, stack, and implementation notes
+- [ ] README includes project title, description (multiple paragraphs, ~750 words or several hundred), links (live, repo), tech stack, and reflection content (metaphor summary, proudest section, bug solved, accessibility decision, what to improve)

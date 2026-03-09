@@ -14,17 +14,18 @@ This is your final submission for Project 2: Lost in the Scroll.
 
 You've spent five weeks building a scrollytelling site that traces your JavaScript learning journey through a personal metaphor. This submission is the complete, deployed, polished version.
 
-**What you are turning in:** A live, deployed scrollytelling site + reflection page + public repository.
+**What you are turning in:** A live, deployed scrollytelling site + public repository with a README that documents the project and includes your reflection.
 
 ---
 
 ## What to Submit
 
-Paste all three links into the Canvas text box:
+Paste both links into the Canvas text box:
 
 1. **Live site URL** (GitHub Pages)
 2. **Public GitHub repository URL**
-3. **Reflection page URL** (e.g. `yoursite.github.io/your-repo/reflection.html`)
+
+Your README is in the repo; we will read it there.
 
 ---
 
@@ -91,26 +92,25 @@ If ScrollSmoother was unavailable for your setup, you must have received instruc
 - Deployed build matches your local final version
 - No broken links or missing assets
 
-### Reflection Page
+### README (Project Documentation + Reflection)
 
-Your project must include a reflection page (linked from your site and/or README) that covers:
+Your repo must include a **README.md** that documents the project and includes your reflection. A separate reflection page (e.g. `reflection.html`) is optional; the required reflection content must be in the README.
 
-- Metaphor summary (1 paragraph)
-- One section you're most proud of, and why
-- One technical bug you solved, and how
-- One accessibility decision you made
-- What you would improve with more time
+README.md must include:
+
+- **Project title** (as H1)
+- **Optional:** Video Demo URL (if you created a walkthrough video)
+- **Description:** Multiple paragraphs that explain what the project is and how it works, what the main files contain and do, and key design choices and why you made them. Aim for at least several hundred words; in the neighborhood of 750 words is a good target.
+- **Links:** Live site URL, repo URL (and optional portfolio link)
+- **Tech stack:** HTML, CSS, JS, GSAP, ScrollTrigger, ScrollSmoother (or equivalents)
+- **Reflection (in the README):**
+  - Metaphor summary (1 paragraph)
+  - One section you're most proud of, and why
+  - One technical bug you solved, and how
+  - One accessibility decision you made
+  - What you would improve with more time
 
 Your reflection is part of the final submission and is considered in evaluation (e.g. under Story & Metaphor and Technical Execution).
-
-### README
-
-Your repo README must include:
-
-- Project title + metaphor framing
-- Live URL + repo URL + reflection page URL
-- Tech stack list
-- Short implementation notes (tokens, motion, accessibility)
 
 ---
 

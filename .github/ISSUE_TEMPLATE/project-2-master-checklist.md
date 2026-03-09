@@ -35,7 +35,7 @@ assignees: ""
 
 - [ ] Live GitHub Pages URL:
 - [ ] Public repo URL:
-- [ ] Reflection page URL:
+- [ ] README in repo (documentation + reflection) complete
 
 ## Final Evidence
 

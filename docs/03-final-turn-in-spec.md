@@ -8,11 +8,12 @@ Students must submit:
 
 - [ ] Live GitHub Pages URL
 - [ ] Public GitHub repository URL
-- [ ] Reflection page URL (can be `/reflection.html`)
 
 Recommended:
 
 - [ ] Portfolio page URL that links to this project
+
+The README (in the repo) contains your project documentation and reflection; graders read it there.
 
 ## 2) Core Build Requirements
 
@@ -89,22 +90,45 @@ References:
 - [ ] Deployed build matches local final version
 - [ ] No broken links or missing assets
 
-## 5) Reflection Page
+## 5) README (Project Documentation + Reflection)
 
-Reflection page must include:
+Your repo must include a **README.md** that serves as both project documentation and reflection. A separate reflection page (e.g. `reflection.html`) is optional; the required reflection content must live in the README.
 
-- [ ] Metaphor summary
-- [ ] One strongest section and why
-- [ ] One technical bug solved and how
-- [ ] One accessibility decision and why
-- [ ] What to improve with more time
+README.md must include:
 
-## 6) README Requirements
+- [ ] **Project title** (as H1)
+- [ ] **Optional:** Video Demo URL (if you created a walkthrough video)
+- [ ] **Description:** Multiple paragraphs that explain what the project is and how it works, what the main files contain and do (e.g. `index.html`, `styles/`, `scripts/main.js`, tokens, motion approach), and key design choices and why you made them. Aim for at least several hundred words; in the neighborhood of 750 words is a good target.
+- [ ] **Links:** Live site URL, repo URL (and optional portfolio link)
+- [ ] **Tech stack:** HTML, CSS, JS, GSAP, ScrollTrigger, ScrollSmoother (or equivalents)
+- [ ] **Reflection (in the README):**
+  - [ ] Metaphor summary (1 paragraph)
+  - [ ] One section you're most proud of, and why
+  - [ ] One technical bug you solved, and how
+  - [ ] One accessibility decision you made
+  - [ ] What you would improve with more time
 
-- [ ] Project title + metaphor framing
-- [ ] Live URL + repo URL + reflection page URL
-- [ ] Tech stack list
-- [ ] Short implementation notes (tokens, motion, accessibility)
+AI is allowed for drafting, but the final README and code explanations must reflect your own understanding.
 
-AI is allowed for drafting, but:
-- [ ] Final README and code explanations must reflect the student's own understanding
+**Optional template** — you may use this structure as a starting point:
+
+```markdown
+# YOUR PROJECT TITLE
+#### Video Demo:  <optional URL>
+#### Description:
+[Multiple paragraphs: what the project is, what key files do, design choices. Aim for ~750 words or at least several hundred.]
+
+#### Links
+- Live site:
+- Repo:
+
+#### Tech stack
+HTML, CSS, JavaScript, GSAP, ScrollTrigger, ScrollSmoother
+
+#### Reflection
+- **Metaphor summary:**
+- **One section I'm most proud of:**
+- **One technical bug I solved:**
+- **One accessibility decision:**
+- **What I'd improve with more time:**
+```
