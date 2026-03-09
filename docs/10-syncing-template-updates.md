@@ -34,7 +34,9 @@ docs/01-start-here.md
 docs/08-progress-tracking-options.md
 docs/09-working-with-coding-agents.md
 docs/09a-agent-workflow-first-run.md
+docs/09b-assignment-agent-workflow-first-run.md
 docs/10-syncing-template-updates.md
+docs/11-assignment-final-turn-in.md
 .github/ISSUE_TEMPLATE/project-2-master-checklist.md
 .github/ISSUE_TEMPLATE/story-structure.md
 .github/ISSUE_TEMPLATE/gsap-motion-foundation.md

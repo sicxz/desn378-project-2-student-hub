@@ -46,8 +46,9 @@ After your repo is created:
 - [Copy This Template](docs/06-copy-this-template.md)
 - [Kickoff Assignment](docs/07-assignment-kickoff-template-and-tracking.md)
 - [Progress Tracking Options](docs/08-progress-tracking-options.md)
-- [Working with Coding Agents](docs/09-working-with-coding-agents.md) — [Step-by-step first run](docs/09a-agent-workflow-first-run.md)
+- [Working with Coding Agents](docs/09-working-with-coding-agents.md) — [Step-by-step first run](docs/09a-agent-workflow-first-run.md) — [Assignment: Agent Workflow First Run](docs/09b-assignment-agent-workflow-first-run.md)
 - [Syncing Template Updates](docs/10-syncing-template-updates.md)
+- [Assignment: Final Turn-In](docs/11-assignment-final-turn-in.md)
 - GitHub issue templates for progress tracking and blocker reporting
 
 ## How To Use Issues
