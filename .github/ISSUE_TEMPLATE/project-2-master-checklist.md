@@ -12,6 +12,13 @@ assignees: ""
 2. Create each sub-issue from template (Issues -> New issue).
 3. Paste each sub-issue number/link below.
 4. Check boxes as each sub-issue is completed and closed.
+5. If you want to use a coding agent, improve each open sub-issue first using [Working with Coding Agents](docs/09-working-with-coding-agents.md).
+
+## Agent Workflow Reminder
+
+- Keep this master issue as the high-level hub.
+- Improve and work the sub-issues one at a time.
+- Do not close a sub-issue until you verify the browser, console, and diff.
 
 ## Sub-Issues (Create + Link)
 

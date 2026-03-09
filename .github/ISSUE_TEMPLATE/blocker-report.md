@@ -10,13 +10,19 @@ assignees: ""
 
 Describe the exact feature or requirement.
 
-## What I Expected
+## Reproduction Steps
+
+1. Step one:
+2. Step two:
+3. Step three:
+
+## Expected Result
 
 Describe expected behavior.
 
-## What Actually Happened
+## Actual Result
 
-Describe actual behavior and error messages.
+Describe actual behavior and include error messages if you have them.
 
 ## Where It Happens
 
@@ -32,3 +38,7 @@ List 2-3 debugging attempts.
 
 - [ ] Screenshot or console output attached
 - [ ] Link to relevant commit
+
+## Help Needed
+
+Explain what you want from the instructor or agent.

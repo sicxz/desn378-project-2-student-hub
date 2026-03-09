@@ -50,6 +50,8 @@ You are not making issues as extra paperwork. You are practicing production work
 3. Paste each sub-issue number into the `Sub-Issues (Create + Link)` list.
 4. Click `Update comment`.
 
+If you want to use a coding agent, improve each open issue before you start coding. First time? Follow the [step-by-step first run](09a-agent-workflow-first-run.md); then use [Working with Coding Agents](09-working-with-coding-agents.md) as your reference.
+
 ### Step 4: Start Building
 
 1. Build your project using [Project Structure Suggestion](04-project-structure-suggestion.md).

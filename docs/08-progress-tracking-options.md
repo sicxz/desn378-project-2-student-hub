@@ -36,6 +36,15 @@ If stuck for more than 20 minutes:
 1. Create `Blocker Report` issue.
 2. Include what you tried and error details.
 
+## Using a Coding Agent
+
+If you want to use a coding agent with this workflow:
+
+1. First time? Follow the [step-by-step first run](09a-agent-workflow-first-run.md). Then use [Working with Coding Agents](09-working-with-coding-agents.md) for prompts and reference.
+2. Create or improve the issue first before any coding.
+3. Work and verify one issue at a time.
+4. Close the issue only after you review the browser, console, and diff.
+
 ## What To Submit For Tracking
 
 - Master checklist issue URL

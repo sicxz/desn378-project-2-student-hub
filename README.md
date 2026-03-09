@@ -32,9 +32,10 @@ After your repo is created:
 
 1. Read [Start Here](docs/01-start-here.md) and follow the step-by-step issue setup
 2. Open [GSAP Scroll](https://gsap.com/scroll/) and study examples
-3. Track progress using [Progress Tracking Options](docs/08-progress-tracking-options.md)
-4. Build, test, and check items off as you complete them
-5. Submit using [Final Turn-In Spec](docs/03-final-turn-in-spec.md)
+3. If you want to use a coding agent, read [Working with Coding Agents](docs/09-working-with-coding-agents.md)
+4. Track progress using [Progress Tracking Options](docs/08-progress-tracking-options.md)
+5. Build, test, and check items off as you complete them
+6. Submit using [Final Turn-In Spec](docs/03-final-turn-in-spec.md)
 
 ## What Is In This Repo
 
@@ -45,6 +46,8 @@ After your repo is created:
 - [Copy This Template](docs/06-copy-this-template.md)
 - [Kickoff Assignment](docs/07-assignment-kickoff-template-and-tracking.md)
 - [Progress Tracking Options](docs/08-progress-tracking-options.md)
+- [Working with Coding Agents](docs/09-working-with-coding-agents.md) — [Step-by-step first run](docs/09a-agent-workflow-first-run.md)
+- [Syncing Template Updates](docs/10-syncing-template-updates.md)
 - GitHub issue templates for progress tracking and blocker reporting
 
 ## How To Use Issues
